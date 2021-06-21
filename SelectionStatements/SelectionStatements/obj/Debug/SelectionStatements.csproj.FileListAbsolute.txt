@@ -1,0 +1,7 @@
+C:\Users\amcel\repos\SelectionStatements\SelectionStatements\SelectionStatements\bin\Debug\SelectionStatements.exe.config
+C:\Users\amcel\repos\SelectionStatements\SelectionStatements\SelectionStatements\bin\Debug\SelectionStatements.exe
+C:\Users\amcel\repos\SelectionStatements\SelectionStatements\SelectionStatements\bin\Debug\SelectionStatements.pdb
+C:\Users\amcel\repos\SelectionStatements\SelectionStatements\SelectionStatements\obj\Debug\SelectionStatements.csproj.AssemblyReference.cache
+C:\Users\amcel\repos\SelectionStatements\SelectionStatements\SelectionStatements\obj\Debug\SelectionStatements.csproj.CoreCompileInputs.cache
+C:\Users\amcel\repos\SelectionStatements\SelectionStatements\SelectionStatements\obj\Debug\SelectionStatements.exe
+C:\Users\amcel\repos\SelectionStatements\SelectionStatements\SelectionStatements\obj\Debug\SelectionStatements.pdb
